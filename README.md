@@ -7,4 +7,4 @@
 
 ## Activity Overview
 
-![]([https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kevin-Lavier&theme=github_dark)](https://github-readme-stats.vercel.app/api?username=Kevin-Lavier&show_icons=true&theme=github_dark&count_private=true)
+https://github-readme-stats.vercel.app/api?username=Kevin-Lavier&show_icons=true&theme=github_dark&count_private=true
